@@ -42,7 +42,7 @@
     "@angular/common": "2.0.0-rc.6",
     "@angular/core": "2.0.0-rc.6",
     "@angular/http": "2.0.0-rc.6",
-    "codelyzer": "^0.0.20",
+    "codelyzer": "^0.0.28",
     "core-js": "^2.4.1",
     "npm-watch": "^0.1.6",
     "ramda": "^0.22.1",
