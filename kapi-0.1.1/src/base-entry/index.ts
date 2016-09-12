@@ -1,0 +1,1 @@
+export { BaseEntryService } from './base-entry.service';
